@@ -20,5 +20,7 @@ class Programa
             }
             Console.WriteLine();
         }
+        Console.WriteLine("Tecle Enter para sair...");
+        Console.ReadLine();
     }
 }
